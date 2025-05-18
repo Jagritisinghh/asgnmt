@@ -1,20 +1,32 @@
 # assignment
 
 **OBJECTIVE**
+
+
+
 Developed a RESTful API to manage a personal book collection. The API will support CRUD (Create, Read, Update, Delete) operations for books. It will allow users to add books, retrieve book details, update information, and delete books. This project will enhance your understanding of building API endpoints, working with databases, and validating incoming data.
 
 **INSTALLATION INSTRUCTIONS**
+
+
+
 Step 1: Node init
 step 2: npm install express, mongoose, dotenv,cors,nodemon
 step 3: Add the mongoDb url in your .env file
 step 4: Start the project-"node index.js"
 
 **DATABASE SETUP**
+
+
+
 step 1: install mongoose
 step 2: establish database connection
 step 3: copy the connection url and paste it in the .env file
 
 **API Documentation**
+
+
+
 ✅ GET /books
 Description: Retrieve a list of all books in the collection.
 Response:
